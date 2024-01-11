@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+	"hibernate-mapping-3.0.dtd">
+  <hibernate-mapping>
+  <class name="com.demo.model.Student" table="stdtab5">
+    <id name="rollno">
+    <generator class="assigned"></generator>
+    </id>
+    <property name="sname" type="string"></property>
+     <property name="saddress" type="string"></property>
+  </class>
+  
+  
+  </hibernate-mapping>
