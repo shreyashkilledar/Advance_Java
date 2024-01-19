@@ -12,4 +12,4 @@ Steps:
 5. Then Run That File Using "Maven Build"
 6. Then change the database & password in src/main/resources-> application.properties file
 7. Open mysql in cmd-> Open database
-8. Then run java application
+8. Then run java application by clicking on arc/main/java-> com.demo-> SpringBootMVCPractice 
