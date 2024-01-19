@@ -7,3 +7,9 @@ Steps:
 1. Download zip File
 2. Open that file in Eclipse using:
    File-> Import-> Select Maven-> Select Existing Maven Project-> Browse that file-> Finish
+3. Then Run That File Using "Maven Clean"
+4. Then Run That File Using "Maven Install"
+5. Then Run That File Using "Maven Build"
+6. Then change the database & password in src/main/resources-> application.properties file
+7. Open mysql in cmd-> Open database
+8. Then run java application
