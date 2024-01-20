@@ -30,3 +30,5 @@ ok kr lukr mi krte dwnlod
 
 Atta Latest Crop kelelya screenshots cha folder upload kelay bagh te download kr
 one by one screenshot open kr ani right side la download cha optin ahe bagh tithun ek ek download kr
+
+program upload kr
