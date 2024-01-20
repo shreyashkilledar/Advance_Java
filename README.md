@@ -14,3 +14,9 @@ Steps:
 7. Open mysql in cmd-> Open database
 8. Then run java application by clicking on src/main/java-> com.demo-> SpringBootMVCPractice
 9. for run on browser use this-> localhost:9090/student/students
+
+
+
+
+
+SET2.Leave Management
