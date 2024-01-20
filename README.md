@@ -24,3 +24,4 @@ Same question here
 share mi as soon as pooible
 okk
 
+2 Screenshots upload karto github la te download karun ghe ani submit kartana maza folder copy paste kr
