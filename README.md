@@ -27,3 +27,5 @@ okk
 2 Screenshots upload karto github la te download karun ghe ani submit kartana maza folder copy paste kr
 
 ok kr lukr mi krte dwnlod
+
+Atta Latest Crop kelelya screenshots cha folder upload kelay bagh te download kr
