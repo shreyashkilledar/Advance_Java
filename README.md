@@ -25,3 +25,5 @@ share mi as soon as pooible
 okk
 
 2 Screenshots upload karto github la te download karun ghe ani submit kartana maza folder copy paste kr
+
+ok kr lukr mi krte dwnlod
