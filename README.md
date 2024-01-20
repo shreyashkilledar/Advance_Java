@@ -32,3 +32,5 @@ Atta Latest Crop kelelya screenshots cha folder upload kelay bagh te download kr
 one by one screenshot open kr ani right side la download cha optin ahe bagh tithun ek ek download kr
 
 program upload kr
+program upload nahi karta yet 
+file more than 25mb ahe ani gitpush ch setting nahiye ya pc madhye
